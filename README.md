@@ -11,8 +11,8 @@ This project is a Las Vegas-themed version of Monopoly implemented in C++. The g
 - Additional functionality includes **reversing, sorting, and node counting**.
 
 # Technologies Used:
-- **C++**
-- **Data Structures:** Circular Linked Lists
+- C++
+- Data Structures: Circular Linked Lists
 
 # How to Run:
 1. Clone the repository
