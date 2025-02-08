@@ -8,7 +8,7 @@ This project is a Las Vegas-themed version of Monopoly implemented in C++. The g
 # Key Features:
 - Circular linked list implementation for the board.
 - Supports operations such as adding, removing, and traversing properties.
-- Additional functionality includes **reversing, sorting, and node counting**.
+- Additional functionality includes reversing, sorting, and node counting.
 
 # Technologies Used:
 - C++
