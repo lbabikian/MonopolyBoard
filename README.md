@@ -1,5 +1,3 @@
-# MonopolyBoard
-```markdown
 # Monopoly Board
 
 # Description:
